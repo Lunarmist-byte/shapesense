@@ -1,6 +1,7 @@
 
 # Face Shape Classifier – API with ML + fallback(Untested and Untrained)
 (Made with 💻 and ☕ by [Lunarmist-byte](url))
+This project is a collab project with my friends here [https://github.com/harikrishnamohann/face-shape-analyzer/tree/with_ML](url)
 
 Detects face shape from uploaded image. Uses trained ML model if available, else falls back to rule-based logic. Feedback support built-in. Auto retrains every 6 hours.
 
